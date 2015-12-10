@@ -1,0 +1,55 @@
+.blockcustomcms {
+	position: relative;
+	display: block;
+	margin-top: 30px;
+}
+
+.blockcustomcms .img {
+	margin: 0 auto;
+	padding: 5px 0 10px 0;
+}
+
+.blockcustomcms_grid {
+	margin: 0 8px 15px 8px;
+	padding: 5px 0 5px 0;
+}
+
+.blockcustomcms span {
+	text-align: center;
+	z-index: 2;
+	width: 100%;
+	display: block;
+	bottom: 7px;
+	text-transform: uppercase;
+	color: #000;
+	font-weight: 700;
+	font-style: inherit;
+}
+
+.blockcustomcms_shadow {
+	background: #f8f8f8 linear-gradient(#f8f8f8, #f6f5f5, #f3f2f2) repeat scroll 0 0;
+    border: 1px solid #f0f0f0;
+    display: block;
+    position: relative;
+}
+
+@media all and (min-width: 600px) {
+	.col-mds-3, .col-mds-6 {
+		float: left;
+	}
+	.col-mds-6 {
+		width: 47.4%;
+		width: -webkit-calc(50% - 16px);
+		width: -moz-calc(50% - 16px);
+		width: calc(50% - 16px);
+	}
+}
+
+@media all and (min-width: 992px) {
+	.col-mds-3 {
+		width: 23.4%;
+		width: -webkit-calc(25% - 16px);
+		width: -moz-calc(25% - 16px);
+		width: calc(25% - 16px);
+	}
+}

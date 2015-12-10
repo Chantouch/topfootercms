@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>topfootercms</name>
+	<displayName><![CDATA[Top Footer CMS]]></displayName>
+	<version><![CDATA[0.0.1]]></version>
+	<description><![CDATA[Add your top footer CMS for shop info to home tab block.]]></description>
+	<author><![CDATA[Chantouch]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

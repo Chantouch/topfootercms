@@ -1,0 +1,19 @@
+{
+  "name": "prestashop/topfootercms",
+  "description": "PrestaShop module topfootercms",
+  "homepage": "https://github.com/Chantouch/topfootercms",
+  "license": "AFL - Academic Free License (AFL 3.0)",
+  "authors": [
+    {
+      "name": "Chantouch SEK",
+      "email": "cs.appsaradev@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}
